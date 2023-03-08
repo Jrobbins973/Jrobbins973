@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Joe%20Robbins%20🧑🏻‍🔬➡️👨🏻‍💻&width=800&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Joe%20Robbins%20🧑🏻‍🔬͢👨🏻‍💻&width=800&height=400)
 
 `Software Developer (Former Clinical Researcher / Exercise Physiologist)` 
 
