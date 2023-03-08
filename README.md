@@ -3,7 +3,7 @@
 `Software Developer (Former Clinical Researcher / Exercise Physiologist)` 
 
 NJ Based Software Developer: 
-From academia to software development my goals have been the same; learn as much as I can, help others, contribute to a community, and work on innovative and unique projects. 
+From academia to software development my goals have been the same; learn as much as I can, help others, contribute to a community, and work on innovative / unique projects. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jrobbins973&label=Profile%20views&color=0e75b6&style=flat" alt="joerobbins" /> </p>
 
@@ -23,6 +23,5 @@ From academia to software development my goals have been the same; learn as much
 <img align="left" alt="tech-icon" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="tech-icon" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="tech-icon" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="tech-icon" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="tech-icon" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 
