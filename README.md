@@ -2,10 +2,15 @@
 
 `Software Developer (Former Clinical Researcher / Exercise Physiologist)` 
 
-As a Software Developer, I possess experience in both frontend and backend technologies, with knowledge of JavaScript, React, and Ruby on Rails. In addition to my technical skills, I hold a Master's degree in Exercise Physiology and have over 6 years of experience as an Exercise Physiologist and Clinical Researcher, which has equipped me with exceptional collaboration and problem-solving skills.
+NJ Based Software Developer 
+From academia to software development my goals have been the same; learn as much as I can, help others, contribute to a community, and work on innovative, unique, cool shit. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jrobbins973&label=Profile%20views&color=0e75b6&style=flat" alt="joerobbins" /> </p>
+
 ---
+
+
+
 ### 👨🏻‍💻 Languages and Tools 👨🏻‍💻
 
 
