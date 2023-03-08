@@ -1,11 +1,11 @@
 # 🏋🏻 Joe Robbins
 
-**`Software Developer (Former Clinical Researcher / Exercise Physiologist)` **
+`Software Developer (Former Clinical Researcher / Exercise Physiologist)` 
 
-<!--
+As a Software Developer, I possess experience in both frontend and backend technologies, with knowledge of JavaScript, React, and Ruby on Rails. In addition to my technical skills, I hold a Master's degree in Exercise Physiology and have over 6 years of experience as an Exercise Physiologist and Clinical Researcher, which has equipped me with exceptional collaboration and problem-solving skills.
 
-Here are some ideas to get you started:
 
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
