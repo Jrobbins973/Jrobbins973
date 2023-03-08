@@ -1,10 +1,10 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Joe%20Robbins%20🧑🏻‍🔬͢👨🏻‍💻&width=800&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Joe%20Robbins%20🧑🏻‍🔬👨🏻‍💻&width=800&height=400)
 
 `Software Developer (Former Clinical Researcher / Exercise Physiologist)` 
 
 As a Software Developer, I possess experience in both frontend and backend technologies, with knowledge of JavaScript, React, and Ruby on Rails. In addition to my technical skills, I hold a Master's degree in Exercise Physiology and have over 6 years of experience as an Exercise Physiologist and Clinical Researcher, which has equipped me with exceptional collaboration and problem-solving skills.
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jrobbins973&label=Profile%20views&color=0e75b6&style=flat" alt="joerobbins" /> </p>
 ---
 ### 👨🏻‍💻 Languages and Tools 👨🏻‍💻
 
