@@ -14,7 +14,7 @@ From academia to software development my goals have been the same; learn as much
 
 
 
-### 👨🏻‍💻 Languages and Tools 👨🏻‍💻
+# 👨🏻‍💻 Languages and Tools 👨🏻‍💻
 
 <a href="https://www.javascript.com/"> 
 <img align="left" alt="tech-icon" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -27,16 +27,15 @@ From academia to software development my goals have been the same; learn as much
 <img align="left" alt="tech-icon" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="tech-icon" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="tech-icon" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-
----
-
+<br></br>
 
 
 
 
----
 
-<!-- # Some fun facts
 
-- 🎓 I have a Masters Degree in Exercise Physiology
-- ♿️ I've worked with the Spinal Cord Injury population for over 6 years -->
+
+<br></br>
+## Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
