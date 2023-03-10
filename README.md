@@ -35,7 +35,3 @@ From academia to software development my goals have been the same; learn as much
 
 
 
-<br></br>
-## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
