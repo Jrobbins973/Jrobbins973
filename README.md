@@ -33,11 +33,7 @@ From academia to software development my goals have been the same; learn as much
 
 ---
 
-# Some fun facts
+<!-- # Some fun facts
 
 - 🎓 I have a Masters Degree in Exercise Physiology
-- ♿️ I've worked with the Spinal Cord Injury population for over 6 years
-- 🦮 My dog is guaranteed to be one of the top #10 cutest dogs you've ever seen (proof available upon request)
-- 🥁 I played the drums for ~10 years and got a nice case of tinnitus from it. Learn from me, wear hearing protection! 🎧
-- 🚶🏻‍♂️ I've been able to solve my most frustrating coding errors while on walks with my dog
-- 🥤 (potentially controversial) I have an extreme dislike for carbonated drinks, because of that the only soda I've ever tried is Coke -- once in high school. I've never understood why anybody likes carbonation, and have a theory that you are all just pretending to like it.
+- ♿️ I've worked with the Spinal Cord Injury population for over 6 years -->
