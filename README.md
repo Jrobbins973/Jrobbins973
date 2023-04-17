@@ -7,9 +7,9 @@ From academia to software development my goals have been the same; learn as much
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jrobbins973&label=Profile%20views&color=0e75b6&style=flat" alt="joerobbins" /> </p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrobbins973&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrobbins973&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrobbins973&show_icons=true&theme=radical)
-
+ -->
 ---
 
 
